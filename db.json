@@ -603,6 +603,144 @@
                     "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
                 }
             ]
+        },
+        {
+            "id": 6,
+            "pro_name": "Figma",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
+            "items": [
+                {
+                    "id": 14,
+                    "projectName": "Profile",
+                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "tagline": "Coffee Project: A Responsive, Single-Page Scroll Website",
+                    "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
+                    "Link": "/",
+                    "images": [
+                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
+                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
+                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
+                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
+                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
+                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg"
+                    ],
+                    "sub_Content1": "A Responsive, Single-Page Scroll Website",
+                    "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
+                    "sub_Content2": "Project Overview",
+                    "image2": "/images/Interiorimage2.jpg",
+                    "para2": "The Coffee Project is designed to immerse visitors in the rich and aromatic world of coffee. The website features various sections that introduce users to different types of coffee, brewing methods, the history of coffee, and a gallery showcasing beautifully styled coffee images. Each section is thoughtfully designed to provide valuable information and an aesthetic appeal that captures the essence of coffee culture.",
+                    "sub_Content3": "Responsive Design",
+                    "para3": [
+                        "Understanding the importance of accessibility across all devices, I implemented a responsive design that ensures the website looks and functions beautifully on desktops, tablets, and smartphones.",
+                        "This was achieved through the use of media queries in CSS, which adjust the layout and content dynamically based on the screen size. Visitors can enjoy a seamless experience whether they are browsing on a large monitor or a small mobile screen."
+                    ],
+                    "sub_Content4": "Navigation and Single-Page Scroll",
+                    "para4": "One of the standout features of the Coffee Project is its smooth single-page scroll functionality. The navigation bar, located at the top of the page, contains links to different sections of the website such as Home, Types of Coffee, Brewing Methods, History, and Gallery. When a nav item is clicked, the page smoothly scrolls to the corresponding section. This provides a fluid and intuitive navigation experience, making it easy for users to explore the content without refreshing or loading new pages.",
+                    "sub_Content5": "Interactive Elements and Animations",
+                    "para5": "To enhance user engagement, I incorporated various interactive elements and subtle animations throughout the site. For instance, when users hover over coffee images in the gallery, they experience a gentle zoom-in effect, adding a touch of interactivity. Additionally, sections of the page fade in as the user scrolls down, creating a dynamic and visually appealing experience.",
+                    "sub_Content6": "Typography and Color Scheme",
+                    "image3": "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                    "para6": "The choice of typography and color scheme plays a crucial role in conveying the mood and theme of the website. For this project, I selected earthy tones and elegant fonts that evoke the warmth and richness of coffee. The harmonious blend of colors and fonts not only enhances readability but also adds to the overall aesthetic of the site.",
+                    "sub_Content7": "Challenges and Solutions",
+                    "para7": "During the development process, one of the challenges I faced was ensuring that all images and elements loaded quickly without compromising quality. To address this, I optimized images and used CSS techniques to ensure fast loading times. Additionally, creating a smooth scrolling effect required precise adjustments to the CSS and JavaScript to ensure consistency across different browsers and devices.",
+                    "sub_Content8": "Conclusion",
+                    "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "pro_name": "Photoshop",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
+            "items": [
+                {
+                    "id": 15,
+                    "projectName": "Profile",
+                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "tagline": "Coffee Project: A Responsive, Single-Page Scroll Website",
+                    "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
+                    "Link": "/",
+                    "images": [
+                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
+                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
+                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
+                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
+                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
+                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg"
+                    ],
+                    "sub_Content1": "A Responsive, Single-Page Scroll Website",
+                    "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
+                    "sub_Content2": "Project Overview",
+                    "image2": "/images/Interiorimage2.jpg",
+                    "para2": "The Coffee Project is designed to immerse visitors in the rich and aromatic world of coffee. The website features various sections that introduce users to different types of coffee, brewing methods, the history of coffee, and a gallery showcasing beautifully styled coffee images. Each section is thoughtfully designed to provide valuable information and an aesthetic appeal that captures the essence of coffee culture.",
+                    "sub_Content3": "Responsive Design",
+                    "para3": [
+                        "Understanding the importance of accessibility across all devices, I implemented a responsive design that ensures the website looks and functions beautifully on desktops, tablets, and smartphones.",
+                        "This was achieved through the use of media queries in CSS, which adjust the layout and content dynamically based on the screen size. Visitors can enjoy a seamless experience whether they are browsing on a large monitor or a small mobile screen."
+                    ],
+                    "sub_Content4": "Navigation and Single-Page Scroll",
+                    "para4": "One of the standout features of the Coffee Project is its smooth single-page scroll functionality. The navigation bar, located at the top of the page, contains links to different sections of the website such as Home, Types of Coffee, Brewing Methods, History, and Gallery. When a nav item is clicked, the page smoothly scrolls to the corresponding section. This provides a fluid and intuitive navigation experience, making it easy for users to explore the content without refreshing or loading new pages.",
+                    "sub_Content5": "Interactive Elements and Animations",
+                    "para5": "To enhance user engagement, I incorporated various interactive elements and subtle animations throughout the site. For instance, when users hover over coffee images in the gallery, they experience a gentle zoom-in effect, adding a touch of interactivity. Additionally, sections of the page fade in as the user scrolls down, creating a dynamic and visually appealing experience.",
+                    "sub_Content6": "Typography and Color Scheme",
+                    "image3": "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                    "para6": "The choice of typography and color scheme plays a crucial role in conveying the mood and theme of the website. For this project, I selected earthy tones and elegant fonts that evoke the warmth and richness of coffee. The harmonious blend of colors and fonts not only enhances readability but also adds to the overall aesthetic of the site.",
+                    "sub_Content7": "Challenges and Solutions",
+                    "para7": "During the development process, one of the challenges I faced was ensuring that all images and elements loaded quickly without compromising quality. To address this, I optimized images and used CSS techniques to ensure fast loading times. Additionally, creating a smooth scrolling effect required precise adjustments to the CSS and JavaScript to ensure consistency across different browsers and devices.",
+                    "sub_Content8": "Conclusion",
+                    "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "pro_name": "Animation",
+            "img": "https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY",
+            "items": [
+                {
+                    "id": 16,
+                    "projectName": "Profile",
+                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "tagline": "Coffee Project: A Responsive, Single-Page Scroll Website",
+                    "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
+                    "Link": "/",
+                    "images": [
+                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
+                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
+                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
+                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
+                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
+                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg"
+                    ],
+                    "sub_Content1": "A Responsive, Single-Page Scroll Website",
+                    "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
+                    "sub_Content2": "Project Overview",
+                    "image2": "/images/Interiorimage2.jpg",
+                    "para2": "The Coffee Project is designed to immerse visitors in the rich and aromatic world of coffee. The website features various sections that introduce users to different types of coffee, brewing methods, the history of coffee, and a gallery showcasing beautifully styled coffee images. Each section is thoughtfully designed to provide valuable information and an aesthetic appeal that captures the essence of coffee culture.",
+                    "sub_Content3": "Responsive Design",
+                    "para3": [
+                        "Understanding the importance of accessibility across all devices, I implemented a responsive design that ensures the website looks and functions beautifully on desktops, tablets, and smartphones.",
+                        "This was achieved through the use of media queries in CSS, which adjust the layout and content dynamically based on the screen size. Visitors can enjoy a seamless experience whether they are browsing on a large monitor or a small mobile screen."
+                    ],
+                    "sub_Content4": "Navigation and Single-Page Scroll",
+                    "para4": "One of the standout features of the Coffee Project is its smooth single-page scroll functionality. The navigation bar, located at the top of the page, contains links to different sections of the website such as Home, Types of Coffee, Brewing Methods, History, and Gallery. When a nav item is clicked, the page smoothly scrolls to the corresponding section. This provides a fluid and intuitive navigation experience, making it easy for users to explore the content without refreshing or loading new pages.",
+                    "sub_Content5": "Interactive Elements and Animations",
+                    "para5": "To enhance user engagement, I incorporated various interactive elements and subtle animations throughout the site. For instance, when users hover over coffee images in the gallery, they experience a gentle zoom-in effect, adding a touch of interactivity. Additionally, sections of the page fade in as the user scrolls down, creating a dynamic and visually appealing experience.",
+                    "sub_Content6": "Typography and Color Scheme",
+                    "image3": "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                    "para6": "The choice of typography and color scheme plays a crucial role in conveying the mood and theme of the website. For this project, I selected earthy tones and elegant fonts that evoke the warmth and richness of coffee. The harmonious blend of colors and fonts not only enhances readability but also adds to the overall aesthetic of the site.",
+                    "sub_Content7": "Challenges and Solutions",
+                    "para7": "During the development process, one of the challenges I faced was ensuring that all images and elements loaded quickly without compromising quality. To address this, I optimized images and used CSS techniques to ensure fast loading times. Additionally, creating a smooth scrolling effect required precise adjustments to the CSS and JavaScript to ensure consistency across different browsers and devices.",
+                    "sub_Content8": "Conclusion",
+                    "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
+                }
+            ]
         }
     ],
     "education_Data": [
