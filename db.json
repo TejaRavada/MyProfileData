@@ -343,7 +343,7 @@
                         "This multi-page setup is efficiently managed using React Router, allowing for smooth transitions and a consistent user experience."
                     ],
                     "sub_Content2": "Responsive Design",
-                    "image2": "/images/Interiorimage2.jpg",
+                    "image2": "https://i.ibb.co/gm78sjQ/Entertainment2.jpg",
                     "para2": [
                         "Ensuring accessibility on various devices is a top priority. The project leverages responsive design principles to adapt the layout to different screen sizes, making the website user-friendly on desktops, tablets, and smartphones. This is achieved through:",
                         "CSS Media Queries: To adjust styles based on screen size.",
