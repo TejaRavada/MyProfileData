@@ -285,7 +285,7 @@
                         "https://i.ibb.co/GPZYRQK/DressUp4.jpg",
                         "https://i.ibb.co/tKqvZFy/DressUp3.jpg",
                         "https://i.ibb.co/tLSY6vR/DressUp1.jpg",
-                        "https://i.ibb.co/Yjf0DH2/DressUp2.jpg",
+                        "https://i.ibb.co/Yjf0DH2/DressUp2.jpg"
                     ],
                     "sub_Content1": "A Showcase of Modern Web Development Techniques",
                     "para1": "I am thrilled to introduce my latest Profile Project, an advanced and interactive web application designed using HTML, CSS, Bootstrap, and JavaScript. This project demonstrates my ability to integrate various web technologies to create a responsive, user-friendly, and feature-rich website. The Profile Project is not just a static portfolio but a dynamic platform showcasing my skills, projects, and expertise in modern web development practices.",
@@ -322,12 +322,14 @@
                 {
                     "id": 8,
                     "projectName": "Entertainment",
-                    "proImg": "",
+                    "proImg": "https://i.ibb.co/KN98DVW/Entertainment1.jpg",
                     "tagline": "Entertainment Movies A Modern React Application",
                     "Title": "Entertainment | A Modern Movies React Application",
-                    "Link": "",
+                    "Link": "https://entertainmentreact.netlify.app",
                     "images": [
-                        
+                        "https://i.ibb.co/KN98DVW/Entertainment1.jpg",
+                        "https://i.ibb.co/gm78sjQ/Entertainment2.jpg",
+                        "https://i.ibb.co/wWfxrKP/Entertainment3.jpg"
                        
                     ],
                     "sub_Content1": "A Modern Movies React Application",
@@ -601,21 +603,6 @@
                     "para8": "The Coffee Project showcases my ability to create responsive, visually appealing websites that offer a great user experience. It reflects my skills in HTML and CSS, as well as my attention to detail and commitment to delivering high-quality web design. This project not only highlights my technical capabilities but also my passion for creating engaging and interactive digital experiences."
                 }
             ]
-        },
-        {
-            "id": 6,
-            "pro_name": "Photoshop",
-            "img": "",
-        },
-        {
-            "id": 7,
-            "pro_name": "Figma",
-            "img": "",
-        },
-        {
-            "id": 8,
-            "pro_name": "Animation",
-            "img": "",
         }
     ],
     "education_Data": [
