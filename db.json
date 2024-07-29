@@ -578,13 +578,13 @@
             "items": [
                 {
                     "id": 13,
-                    "projectName": "Profile",
-                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "projectName": "Figma works",
+                    "proImg": "https://i.ibb.co/njTrL55/background-Design1.jpg",
                     "tagline": "Coffee Project: A Responsive, Single-Page Scroll Website",
                     "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
                     "Link": "/",
                     "images": [
-                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                        "https://i.ibb.co/njTrL55/background-Design1.jpg",
                         "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
                         "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
                         "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
@@ -624,25 +624,22 @@
             "items": [
                 {
                     "id": 14,
-                    "projectName": "Profile",
-                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "projectName": "Photoshop Works",
+                    "proImg": "https://i.ibb.co/njTrL55/background-Design1.jpg",
                     "tagline": "Welcome to my Photoshop gallery: A Responsive, image slider",
                     "Title": "Welcome to my Photoshop gallery | A Responsive, slider",
                     "Link": "https://tejaphotoshop.netlify.app/",
                     "images": [
-                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
-                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
-                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
-                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
-                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
-                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
-                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
-                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg"
+                        "https://i.ibb.co/njTrL55/background-Design1.jpg",
+                        "https://i.ibb.co/XFnmJb3/background-Design9.jpg",
+                        "https://i.ibb.co/1JfyTWh/background-Design4.jpg",
+                        "https://i.ibb.co/hRfg422/Drawing18.jpg",
+                        "https://i.ibb.co/sqdmG5J/Drawing3.jpg"
                     ],
                     "sub_Content1": "A Responsive, slider-Page Website",
                     "para1": "Innovative and passionate digital painter with a keen eye for color, composition, and detail. Experienced in creating high-quality digital art for various applications, including gaming, film, and advertising. Adept at working collaboratively in a team environment and managing multiple projects to meet tight deadlines. Committed to continuously improving skills and staying updated with the latest industry trends and technologies.",
                     "sub_Content2": "Project Overview",
-                    "image2": "/images/Interiorimage2.jpg",
+                    "image2": "https://i.ibb.co/XFnmJb3/background-Design9.jpg",
                     "para2": "Led a team of digital artists in creating high-quality visual assets for a variety of projects, including video games, animations, and marketing campaigns.",
                     "sub_Content3": "Responsive Design",
                     "para3": [
@@ -654,7 +651,7 @@
                     "sub_Content5": "Interactive Elements and Animations",
                     "para5": "Expertise in designing and creating detailed and immersive background art for animations, games, and other visual media.",
                     "sub_Content6": "Typography and Color Scheme",
-                    "image3": "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                    "image3": "https://i.ibb.co/hRfg422/Drawing18.jpg",
                     "para6": "Skilled in using digital painting tools to create high-resolution background designs Exceptional attention to detail, ensuring high-quality and polished final backgrounds.",
                     "sub_Content7": "Challenges and Solutions",
                     "para7": "Adobe Photoshop, Corel Painter, Autodesk SketchBook, Procreate, and other digital illustration tools.",
@@ -671,24 +668,21 @@
                 {
                     "id": 15,
                     "projectName": "Animation works",
-                    "proImg": "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                    "proImg": "https://i.ibb.co/cD6VNYx/digital-Painting5.jpg",
                     "tagline": "Animation Project: A Responsive, multi-Page Scroll Website",
                     "Title": "Animation website | A Responsive, multi-Page Scroll Website",
                     "Link": "https://tejaanimation.netlify.app",
                     "images": [
-                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
-                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
-                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
-                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg",
-                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
-                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
-                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
-                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg"
+                        "https://i.ibb.co/cD6VNYx/digital-Painting5.jpg",
+                        "https://i.ibb.co/12FVXpq/digital-Painting17.jpg",
+                        "https://i.ibb.co/bWsF2T9/digital-Painting18.jpg",
+                        "https://i.ibb.co/6NHrvbt/digital-Painting20.jpg",
+                        "https://i.ibb.co/5Krk7BT/digital-Painting19.jpg"
                     ],
                     "sub_Content1": "A Responsive, multi-Page Scroll Website",
                     "para1": "Created custom illustrations and animations for various clients, focusing on content drawing, perspective building, face expressions, and animal illustrations.",
                     "sub_Content2": "Project Overview",
-                    "image2": "/images/Interiorimage2.jpg",
+                    "image2": "https://i.ibb.co/5Krk7BT/digital-Painting19.jpg",
                     "para2": "Developed interior backgrounds for animated projects, ensuring a cohesive and visually appealing environment.",
                     "sub_Content3": "Responsive Design",
                     "para3": [
@@ -703,7 +697,7 @@
                     "sub_Content5": "Interactive Elements and Animations",
                     "para5": "Led a team of digital artists in creating high-quality visual assets for a variety of projects, including video games, animations, and marketing campaigns.",
                     "sub_Content6": "Typography and Color Scheme",
-                    "image3": "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                    "image3": "https://i.ibb.co/6NHrvbt/digital-Painting20.jpg",
                     "para6": "Developed and refined digital painting techniques to improve efficiency and output quality",
                     "sub_Content8": "Conclusion",
                     "para7": "Managed all aspects of the freelance business, from client communication to project management."
