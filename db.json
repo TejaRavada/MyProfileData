@@ -877,11 +877,24 @@
             "title": "Font-End developer",
             "company": "Shrisansa Animstudio P.V.T L.T.D Hyderabad ",
             "date": "2018 - 2023",
-            "para": "At Shrisansa Animstudio P.V.T L.T.D, Passionate UI/UX designer and frontend developer with 4 years of experience in creating visually appealing and user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, React, and design tools like Figma and Adobe Illustrator. Adept at translating complex requirements into user-centered designs and functional web interfaces. Transitioned to UI/UX design and front-end development after a 7-year career in 2D animation, bringing a unique blend of creative design skills and technical expertise to the role. Recently learned full-stack Java development to expand my technical skill set.",
+            "para": "At Shrisansa Animstudio P.V.T L.T.D, Passionate UI/UX designer and frontend developer with 2 years of experience in creating visually appealing and user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, React, and design tools like Figma and Adobe Illustrator. Adept at translating complex requirements into user-centered designs and functional web interfaces. Transitioned to UI/UX design and front-end development after a 9-year career in 2D animation, bringing a unique blend of creative design skills and technical expertise to the role. Recently learned full-stack Java development to expand my technical skill set.",
             "description": [
                 "UI/UX Design and Frontend Development: Developed and maintained responsive web applications using modern technologies. Collaborated with UI/UX designers to create seamless user experiences.",
                 "SansaminiFood is a web application designed to make browsing, selecting, and purchasing food items easy and efficient. The project integrates detailed food descriptions, real-time cart updates, and delivery location management, all designed using Figma for a visually appealing interface.",
                 "DeliciousFoody is a web application designed to simplify the browsing, selection, and purchasing of food items"
+            ],
+            "icon": "https://cdn-icons-png.freepik.com/256/6988/6988161.png?ga=GA1.1.201266464.1715144563&semt=ais_hybrid"
+        },
+        {
+            "id": 8,
+            "title": "Font-End developer",
+            "company": "Freelancer",
+            "date": "2023 - till date",
+            "para": "Passionate UI/UX Designer and Frontend Developer With 3 years of experience in crafting visually stunning and user-friendly websites and applications, I bring a strong background in HTML, CSS, JavaScript, React, and design tools like Figma and Adobe Illustrator. My expertise lies in translating complex requirements into user-focused designs and functional web interfaces. I transitioned to UI/UX design and front-end development after a 9-year career in 2D animation, leveraging my creative design skills and technical proficiency to deliver innovative solutions. Recently, I expanded my expertise by learning full-stack Java development, further strengthening my technical capabilities.",
+            "description": [
+                "Freelance Frontend Developer (Last Year): Designed and implemented responsive, user-friendly interfaces, collaborating with clients to create tailored solutions that improved user experiences and met project goals.",
+                "Shrisansana Anim Studio Company (2 Years): Specialized in UI and UX development, creating visually appealing and functional front-end designs for animation-based platforms. Demonstrated expertise in aligning technical solutions with creative and business objectives.",
+                "Art by handmade is a web application designed to simplify the browsing, selection, and purchasing of earrings items"
             ],
             "icon": "https://cdn-icons-png.freepik.com/256/6988/6988161.png?ga=GA1.1.201266464.1715144563&semt=ais_hybrid"
         }
